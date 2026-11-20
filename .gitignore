@@ -14,3 +14,6 @@ __pycache__/
 # 第 3 课练习时生成的文件（按需忽略）
 demo.txt
 person.json
+
+# 项目的个人数据（不想把私人学习记录推到 GitHub 就保留这行）
+records.json
